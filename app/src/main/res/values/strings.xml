@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MobileProgramming</string>
+    <string name="panjang">panjang</string>
+    <string name="lebar">lebar</string>
+    <string name="tinggi">tinggi</string>
+    <string name="btn_hitung">btn_hitung</string>
+    <string name="result">result</string>
+    <string name="hitung">hitung</string>
+    <string name="itung">Hitung</string>
+</resources>
